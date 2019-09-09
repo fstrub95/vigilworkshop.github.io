@@ -56,7 +56,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>September 15, 2019 (11:59 PM Pacific time)</td>
+          <td>September 15, 2019 (11:59 PM Hawaii time)</td>
         </tr>
         <tr>
           <td>Decision Notifications</td>
